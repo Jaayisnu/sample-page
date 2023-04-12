@@ -1,0 +1,21 @@
+body{
+    background: url(./images/signup/sign\ up.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.regform{
+   width: 500px; 
+   margin: 250px auto;
+   background-color: rgba(0, 0, 0 ,.5 );
+   color: white;
+   padding: 10px 20px 30px;
+   font-size: 30px;
+}
+.regform h3{
+    text-align: center;
+    color: rgb(238, 99, 34);
+}
